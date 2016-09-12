@@ -1,6 +1,6 @@
 <project name="Dashboard_app" basedir=".">
   <description>
-    simple example build file
+    First build file
   </description>
   <!-- set global properties for this build -->
   <property name="src" location="src"/>

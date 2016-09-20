@@ -1,6 +1,6 @@
 <project name="Dashboard_app" basedir=".">
   <description>
-   Sample build file docker build
+   Sample build file docker build test
   </description>
   <!-- set global properties for this build -->
   <property name="src" location="src"/>

@@ -3,8 +3,8 @@ import unittest
 class SimplisticTest(unittest.TestCase):
 
     def test(self):
-        print('Basic Unit Test case demo')
-        print('Basic Unit 2 Test case demo')
+        print('Basic Unit Test case demo devops')
+        print('Basic Unit 2 Test case demo devops')
         self.assertTrue(True)
 
 if __name__ == '__main__':
